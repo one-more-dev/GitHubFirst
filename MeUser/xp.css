@@ -10,11 +10,34 @@ p{
 	color: white;
 }
 
-#zero{
-	background: green;
+/*
+.page{
 	height: 50%;
+	width: 100%;
+	overflow-y: hidden;
+	position: fixed;
+	z-index: 1;
+	top: 0;
+	overflow-y: hidden;
+	
 }
+*/
 
 #one{
-	background: grey;
+	background-color: green;
+	height: 50%;
+	width: 100%;
+	position: fixed;
+	z-index: 1;
+	top: 0;
+	overflow-y: hidden;
+}
+#two{
+	background-color: gray;
+	height: 50%;
+	width: 100%;
+	position: fixed;
+	z-index: 1;
+	top: 50%;
+	overflow-y: hidden;
 }
