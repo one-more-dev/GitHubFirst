@@ -1,0 +1,16 @@
+body{
+	background: blue;
+	margin: 0;
+	padding: 0;
+}
+
+p{
+	font-size: 2em;
+	text-transform: uppercase;
+	color: white;
+}
+
+#zero{
+	background: red;
+	
+}
